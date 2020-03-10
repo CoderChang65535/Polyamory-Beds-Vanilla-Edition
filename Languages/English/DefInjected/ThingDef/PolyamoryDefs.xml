@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Polyamory Beds (Vanilla Edition) -->
+
+  <TripleSleepingSpot.label>triple sleeping spot</TripleSleepingSpot.label>
+  <TripleSleepingSpot.description>Designates a spot on the ground where three people should sleep together. Not comfortable.</TripleSleepingSpot.description>
+
+  <QuadSleepingSpot.label>quadra sleeping spot</QuadSleepingSpot.label>
+  <QuadSleepingSpot.description>Designates a spot on the ground where four people should sleep together. Not comfortable.</QuadSleepingSpot.description>
+
+  <BedrollTriple.label>triple bedroll</BedrollTriple.label>
+  <BedrollTriple.description>A simple triple-wide bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep.</BedrollTriple.description>
+
+  <BedrollQuad.label>quadra bedroll</BedrollQuad.label>
+  <BedrollQuad.description>A simple quadra-wide bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep.</BedrollQuad.description>
+
+  <TripleBed.label>triple bed</TripleBed.label>
+  <TripleBed.description>A simple triple-wide bed that fits three people.</TripleBed.description>
+
+  <QuadBed.label>quadra bed</QuadBed.label>
+  <QuadBed.description>A simple quadra-wide bed that fits four people.</QuadBed.description>
+
+  <TripleRoyalBed.label>triple royal bed</TripleRoyalBed.label>
+  <TripleRoyalBed.description>A luxurious gold-inlaid bed fit for the highborn. Very comfy and beautiful, it is a work of art in itself. Fits three.</TripleRoyalBed.description>
+
+  <QuadRoyalBed.label>quadra royal bed</QuadRoyalBed.label>
+  <QuadRoyalBed.description>A luxurious gold-inlaid bed fit for the highborn. Very comfy and beautiful, it is a work of art in itself. Fits four.</QuadRoyalBed.description>
+
+  <PentaRoyalBed.label>penta royal bed</PentaRoyalBed.label>
+  <PentaRoyalBed.description>A luxurious gold-inlaid bed fit for the highborn. Very comfy and beautiful, it is a work of art in itself. Fits five.</PentaRoyalBed.description>
+
+
+</LanguageData>
